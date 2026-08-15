@@ -1,50 +1,59 @@
 # João Fernando
 
-**Desenvolvedor Full Stack**
+**Desenvolvedor Full Stack · React, Next.js, TypeScript, Python e FastAPI**
 
-Desenvolvo aplicações web completas, da interface ao banco de dados, com foco em código organizado, experiência do usuário e soluções que funcionam no mundo real.
+Desenvolvo aplicações web completas, da interface ao banco de dados, com foco em regras de negócio, experiência do usuário, segurança e código sustentável. Meus projetos recentes envolvem educação, impacto social e gestão de eventos.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (UNIT)** e busco oportunidades de **estágio ou desenvolvimento de software** nas áreas de Full Stack, Backend ou Front-end.
+Curso **Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (UNIT)**, com conclusão prevista para julho de 2027 e **MGP 9,25/10**. Busco oportunidades de estágio ou desenvolvimento de software em Full Stack, Backend ou Front-end.
 
 ## Tecnologias
 
-- **Front-end:** React, Next.js, TypeScript, JavaScript e Tailwind CSS
+- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML e CSS
 - **Backend:** Python, FastAPI, SQLAlchemy e APIs REST
-- **Banco de dados:** PostgreSQL e Supabase
-- **Ferramentas:** Git, GitHub, Docker, Vercel e Figma
+- **Dados:** PostgreSQL, Supabase e SQLite
+- **Engenharia:** Git, GitHub Actions, Docker, Vercel e testes automatizados
 
-## Projetos em destaque
+## Projetos selecionados
 
 ### Simulados SEDU
 
-Plataforma full stack para criação, aplicação, acompanhamento e análise de simulados educacionais.
+Plataforma full stack para criar, aplicar e analisar simulados educacionais, desenvolvida na **Residência de Software II da UNIT** a partir de um desafio proposto pela **Secretaria de Estado da Educação de Sergipe (SEDUC/SE)**.
 
-O projeto foi desenvolvido na **Residência de Software II da UNIT**, realizada em parceria com a **Secretaria de Estado da Educação de Sergipe (SEDUC/SE)**, responsável pela proposição do desafio. A plataforma foi desenvolvida e entregue como solução do projeto da residência.
-
-Principais recursos:
-
-- banco de questões e montagem de provas;
-- diferentes níveis de acesso para equipes pedagógicas e alunos;
-- autosave de respostas, correção e resultados;
-- dashboards, notificações e auditoria;
-- acessibilidade pedagógica;
-- IA heurística local, baseada em regras e com revisão humana.
+- banco de questões, provas, autosave, correção e dashboards;
+- controle de acesso, notificações, auditoria e acessibilidade pedagógica;
+- IA heurística local baseada em regras, com revisão humana.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, SQLAlchemy, PostgreSQL e Vercel.
 
-[Ver demonstração](https://simulados-sedu.vercel.app) · [Ver código-fonte](https://github.com/LuKeTempestt/simulados-sedu)
+[Aplicação](https://simulados-sedu.vercel.app) · [Código-fonte](https://github.com/LuKeTempestt/simulados-sedu)
 
-### Beira Mar Pescados
+### FutSystem
 
-Protótipo front-end de um sistema administrativo para organizar estoque, produção, pedidos, entregas, clientes, funcionários, histórico e comunicação interna.
+Sistema full stack para o campeonato de futebol digital da AVOSOS, criado na disciplina **Experiência Extensionista I da UNIT**. Centraliza inscrições, grupos, partidas, placares, classificação e administração do evento.
 
-O projeto demonstra navegação baseada em perfis, componentes compartilhados e organização de diferentes módulos operacionais. O login e as permissões são demonstrativos e executados apenas no navegador.
+- API REST e controle de acesso por perfil;
+- motor heurístico local para distribuição de participantes;
+- bcrypt, rate limiting, consentimento auditável e pseudonimização pública;
+- testes automatizados e integração contínua.
 
-**Stack:** HTML, CSS, JavaScript, LocalStorage e Font Awesome.
+**Stack:** Python, FastAPI, SQLAlchemy, SQLite, JavaScript, HTML, CSS e PWA.
 
-[Ver demonstração](https://luketempestt.github.io/beiramar_pescados/) · [Ver código-fonte](https://github.com/LuKeTempestt/beiramar_pescados)
+[Código-fonte e documentação](https://github.com/LuKeTempestt/FutSystem)
+
+### EcoPonto
+
+Aplicação web mobile para localizar pontos de coleta, registrar descartes e acompanhar estimativas de impacto ambiental. O projeto combina visualização de dados, gamificação, persistência local e interface responsiva.
+
+- registro por material, peso e ponto de descarte;
+- painel de impacto, rankings, conquistas e cooperativas;
+- persistência no navegador e validação automatizada de qualidade;
+- estudo de caso preparado como base para pesquisa acadêmica futura.
+
+**Stack:** HTML5, CSS3, JavaScript e GitHub Actions.
+
+[Aplicação](https://luketempestt.github.io/ecoponto/) · [Código-fonte](https://github.com/LuKeTempestt/ecoponto)
 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/luketempestt/)
-- Localização: Aracaju, Sergipe, Brasil
+- Aracaju, Sergipe, Brasil
