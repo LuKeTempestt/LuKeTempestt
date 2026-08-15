@@ -4,7 +4,7 @@
 
 Desenvolvo aplicações web completas, da interface ao banco de dados, com foco em código organizado, experiência do usuário e soluções que funcionam no mundo real.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (UNIT)** e busco oportunidades de **estágio ou desenvolvimento de software** nas áreas de Full Stack, Backend Python ou Front-end React.
+Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (UNIT)** e busco oportunidades de **estágio ou desenvolvimento de software** nas áreas de Full Stack, Backend ou Front-end.
 
 ## Tecnologias
 
