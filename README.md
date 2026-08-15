@@ -28,7 +28,7 @@ Principais recursos:
 - autosave de respostas, correção e resultados;
 - dashboards, notificações e auditoria;
 - acessibilidade pedagógica;
-- análise automatizada baseada em regras e heurísticas locais.
+- IA heurística local, baseada em regras e com revisão humana.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, SQLAlchemy, PostgreSQL e Vercel.
 
@@ -42,7 +42,7 @@ O projeto demonstra navegação baseada em perfis, componentes compartilhados e 
 
 **Stack:** HTML, CSS, JavaScript, LocalStorage e Font Awesome.
 
-[Ver código-fonte](https://github.com/LuKeTempestt/beiramar_pescados)
+[Ver demonstração](https://luketempestt.github.io/beiramar_pescados/) · [Ver código-fonte](https://github.com/LuKeTempestt/beiramar_pescados)
 
 ## Contato
 
