@@ -13,7 +13,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Tirade
 - **Banco de dados:** PostgreSQL e Supabase
 - **Ferramentas:** Git, GitHub, Docker, Vercel e Figma
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### Simulados SEDU
 
@@ -33,6 +33,16 @@ Principais recursos:
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, SQLAlchemy, PostgreSQL e Vercel.
 
 [Ver demonstração](https://simulados-sedu.vercel.app) · [Ver código-fonte](https://github.com/LuKeTempestt/simulados-sedu)
+
+### Beira Mar Pescados
+
+Protótipo front-end de um sistema administrativo para organizar estoque, produção, pedidos, entregas, clientes, funcionários, histórico e comunicação interna.
+
+O projeto demonstra navegação baseada em perfis, componentes compartilhados e organização de diferentes módulos operacionais. O login e as permissões são demonstrativos e executados apenas no navegador.
+
+**Stack:** HTML, CSS, JavaScript, LocalStorage e Font Awesome.
+
+[Ver código-fonte](https://github.com/LuKeTempestt/beiramar_pescados)
 
 ## Contato
 
