@@ -38,11 +38,11 @@ Sistema full stack para o campeonato de futebol digital da AVOSOS, criado na dis
 
 **Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL/Neon, SQLite, JavaScript, HTML, CSS, PWA e Vercel.
 
-[Aplicação](https://futsystem.vercel.app) · [API](https://futsystem.vercel.app/api/docs) · [Código-fonte](https://github.com/LuKeTempestt/FutSystem)
+[Aplicação](https://futsystem.vercel.app) · [Código-fonte](https://github.com/LuKeTempestt/FutSystem)
 
 ### EcoPonto
 
-Aplicação web mobile para localizar pontos de coleta, registrar descartes e acompanhar estimativas de impacto ambiental. O projeto combina visualização de dados, gamificação, persistência local e interface responsiva.
+Aplicação web mobile criada de **fevereiro a julho de 2025** na disciplina **Programação Web Front-end da UNIT** para localizar pontos de coleta, registrar descartes e acompanhar estimativas de impacto ambiental. O projeto combina visualização de dados, gamificação, persistência local e interface responsiva.
 
 - registro por material, peso e ponto de descarte;
 - painel de impacto, rankings, conquistas e cooperativas;
