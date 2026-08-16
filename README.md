@@ -51,7 +51,7 @@ Aplicação web mobile criada de **fevereiro a julho de 2025** na disciplina **P
 
 **Stack:** HTML5, CSS3, JavaScript e GitHub Actions.
 
-[Aplicação](https://luketempestt.github.io/ecoponto/) · [Código-fonte](https://github.com/LuKeTempestt/ecoponto)
+[Aplicação](https://luketempestt.github.io/EcoPonto/) · [Código-fonte](https://github.com/LuKeTempestt/EcoPonto)
 
 ## Contato
 
