@@ -10,7 +10,7 @@ Curso **Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (UNIT)
 
 - **Front-end:** React, Next.js, TypeScript, JavaScript, HTML e CSS
 - **Backend:** Python, FastAPI, SQLAlchemy e APIs REST
-- **Dados:** PostgreSQL, Supabase e SQLite
+- **Dados:** PostgreSQL, Neon, Supabase e SQLite
 - **Engenharia:** Git, GitHub Actions, Docker, Vercel e testes automatizados
 
 ## Projetos selecionados
@@ -34,11 +34,11 @@ Sistema full stack para o campeonato de futebol digital da AVOSOS, criado na dis
 - API REST e controle de acesso por perfil;
 - motor heurístico local para distribuição de participantes;
 - bcrypt, rate limiting, consentimento auditável e pseudonimização pública;
-- testes automatizados e integração contínua.
+- 25 testes automatizados e integração contínua.
 
-**Stack:** Python, FastAPI, SQLAlchemy, SQLite, JavaScript, HTML, CSS e PWA.
+**Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL/Neon, SQLite, JavaScript, HTML, CSS, PWA e Vercel.
 
-[Código-fonte e documentação](https://github.com/LuKeTempestt/FutSystem)
+[Aplicação](https://futsystem.vercel.app) · [API](https://futsystem.vercel.app/api/docs) · [Código-fonte](https://github.com/LuKeTempestt/FutSystem)
 
 ### EcoPonto
 
