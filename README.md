@@ -1,80 +1,80 @@
 # João Fernando
 
-**Desenvolvedor Python | Backend e Full Stack | FastAPI, APIs REST, PostgreSQL, Redis e Docker**
+**Desenvolvedor Full Stack | Python, FastAPI, React, TypeScript e PostgreSQL**
 
-Desenvolvo aplicações web da interface à operação, com atenção a regras de
-negócio, segurança, testes e manutenção. Meus projetos publicados usam Python,
-FastAPI, React, TypeScript, PostgreSQL, Redis, Docker e pipelines de CI/CD.
+Desenvolvo aplicações web completas, conectando interfaces responsivas, APIs
+REST e bancos de dados a regras de negócio reais. Trabalho com React e
+TypeScript no front-end, Python e FastAPI no backend e PostgreSQL e Redis na
+camada de dados. Também cuido de autenticação, segurança, testes automatizados,
+Docker, integração contínua e publicação.
 
-Curso **Análise e Desenvolvimento de Sistemas na Universidade Tiradentes
-(UNIT)**, com conclusão prevista para julho de 2027 e **MGP 9,25/10**. Busco
-oportunidades em desenvolvimento Backend Python ou Full Stack nas quais eu
-possa contribuir com APIs, integrações, dados e qualidade de software.
+## Como atuo
 
-## Competências técnicas
+- **Front-end:** interfaces responsivas e acessíveis com React, Next.js,
+  TypeScript e JavaScript;
+- **Backend:** APIs REST com Python, FastAPI, SQLAlchemy, Pydantic e documentação
+  OpenAPI;
+- **Dados:** modelagem relacional, consultas e persistência com PostgreSQL,
+  Neon, Supabase, SQLite e Redis;
+- **Qualidade e entrega:** Git, Docker Compose, testes automatizados, GitHub
+  Actions, CodeQL, CI/CD e Vercel.
 
-- **Backend:** Python, FastAPI, SQLAlchemy, Pydantic, APIs REST, JSON, HTTP e OpenAPI/Swagger
-- **Dados:** PostgreSQL, Neon, Supabase, SQLite, Redis e modelagem relacional
-- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML, CSS e acessibilidade web
-- **Engenharia:** Git, GitHub Actions, Docker Compose, CI/CD, testes automatizados, CodeQL e Vercel
-
-## Projetos selecionados
+## Projetos em destaque
 
 ### Nexo Pessoas
 
-Plataforma full stack para gestão segura do ciclo de vida de usuários, com
-frontend React/TypeScript e API Python/FastAPI.
+Produto full stack para administrar usuários com segurança durante todo o ciclo
+de vida do cadastro. Além das operações tradicionais de CRUD, permite ativar,
+desativar, ocultar, restaurar e excluir registros definitivamente.
 
-- CRUD completo, ativação, desativação, ocultação, restauração e exclusão permanente;
-- autenticação, RBAC, proteção CSRF, rate limiting com Redis e trilha de auditoria;
-- PostgreSQL, Docker Compose, CI, CodeQL e deploy com Vercel, Neon e Upstash;
-- 60 testes automatizados e smoke test da pilha Docker com PostgreSQL e Redis.
+- autenticação, controle de acesso por perfis, proteção CSRF e rate limiting;
+- auditoria das alterações e validações de negócio no backend;
+- React e TypeScript integrados a uma API Python/FastAPI;
+- PostgreSQL e Redis executados localmente com Docker Compose;
+- 60 testes automatizados, CI, CodeQL e smoke test da pilha Docker;
+- produção com Vercel, Neon e Upstash.
 
-**Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, React, TypeScript,
-Docker, GitHub Actions e Vercel.
+**Tecnologias:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, React,
+TypeScript, Docker e GitHub Actions.
 
-[Aplicação](https://nexo-pessoas.vercel.app) ·
-[Código-fonte](https://github.com/LuKeTempestt/nexo-pessoas) ·
-[Última versão](https://github.com/LuKeTempestt/nexo-pessoas/releases/latest)
+[Conhecer a aplicação](https://nexo-pessoas.vercel.app) ·
+[Ver o código](https://github.com/LuKeTempestt/nexo-pessoas) ·
+[Consultar a versão atual](https://github.com/LuKeTempestt/nexo-pessoas/releases/latest)
 
 ### Simulados SEDU
 
-Plataforma educacional desenvolvida na **Residência de Software II da UNIT** a
-partir de um desafio proposto pela **Secretaria de Estado da Educação de
-Sergipe (SEDUC/SE)**.
+Plataforma educacional para criação, aplicação e acompanhamento de simulados.
+O sistema reúne banco de questões, provas, salvamento automático, correção,
+resultados e painéis de desempenho em uma experiência única para estudantes e
+educadores.
 
-- banco de questões, provas, autosave, correção, resultados e dashboards;
-- APIs REST, autenticação JWT, controle de acesso, notificações e auditoria;
-- frontend Next.js/React integrado a FastAPI e PostgreSQL;
-- CI, CodeQL e publicação conjunta de frontend e backend na Vercel.
+- frontend Next.js/React conectado a uma API FastAPI;
+- autenticação JWT, controle de acesso, notificações e auditoria;
+- persistência em PostgreSQL e documentação OpenAPI;
+- testes, integração contínua, CodeQL e publicação na Vercel.
 
-**Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Next.js, React, TypeScript,
-Docker, GitHub Actions e Vercel.
+**Tecnologias:** Python, FastAPI, PostgreSQL, Next.js, React, TypeScript, Docker
+e GitHub Actions.
 
-[Aplicação](https://simulados-sedu.vercel.app) ·
-[Código-fonte](https://github.com/LuKeTempestt/simulados-sedu)
+[Conhecer a aplicação](https://simulados-sedu.vercel.app) ·
+[Ver o código](https://github.com/LuKeTempestt/simulados-sedu)
 
 ### FutSystem
 
-Sistema full stack desenvolvido na **Experiência Extensionista I da UNIT**, em
-parceria com a **AVOSOS**, para organizar um campeonato de futebol digital.
+Sistema desenvolvido para organizar um campeonato de futebol digital em
+parceria com a AVOSOS. Centraliza inscrições, participantes, grupos, partidas,
+placares, classificação e administração do evento.
 
-- inscrições, participantes, grupos, partidas, classificação e administração;
-- API REST, autenticação JWT, controle de acesso, bcrypt e rate limiting;
-- PostgreSQL/Neon em produção, PWA responsiva e publicação na Vercel;
+- API REST com autenticação JWT, controle de acesso, bcrypt e rate limiting;
+- PostgreSQL/Neon em produção e SQLite no desenvolvimento local;
+- PWA responsiva para uso em computadores e dispositivos móveis;
 - 25 testes automatizados e integração contínua com GitHub Actions.
 
-**Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Neon, SQLite, JavaScript,
-HTML, CSS, PWA e Vercel.
+**Tecnologias:** Python, FastAPI, SQLAlchemy, PostgreSQL, JavaScript, HTML, CSS,
+PWA e Vercel.
 
-[Aplicação](https://futsystem.vercel.app) ·
-[Código-fonte](https://github.com/LuKeTempestt/FutSystem)
-
-## Outro projeto
-
-O [EcoPonto](https://github.com/LuKeTempestt/EcoPonto) demonstra desenvolvimento
-front-end mobile-first, acessibilidade, persistência local e validação
-automatizada em uma aplicação de impacto ambiental.
+[Conhecer a aplicação](https://futsystem.vercel.app) ·
+[Ver o código](https://github.com/LuKeTempestt/FutSystem)
 
 ## Contato
 
