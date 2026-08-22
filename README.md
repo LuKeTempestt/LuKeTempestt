@@ -45,8 +45,8 @@ TypeScript, Docker e GitHub Actions.
 
 Plataforma educacional para criação, aplicação e acompanhamento de simulados.
 O sistema reúne banco de questões, provas, salvamento automático, correção,
-resultados e painéis de desempenho em uma experiência única para estudantes e
-educadores.
+resultados e painéis de desempenho em uma interface integrada para estudantes
+e educadores.
 
 - frontend Next.js/React conectado a uma API FastAPI;
 - autenticação JWT, controle de acesso, notificações e auditoria;
