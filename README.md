@@ -28,14 +28,14 @@ frontend React/TypeScript e API Python/FastAPI.
 - CRUD completo, ativação, desativação, ocultação, restauração e exclusão permanente;
 - autenticação, RBAC, proteção CSRF, rate limiting com Redis e trilha de auditoria;
 - PostgreSQL, Docker Compose, CI, CodeQL e deploy com Vercel, Neon e Upstash;
-- 60 testes automatizados e smoke test do fluxo real com quatro containers.
+- 60 testes automatizados e smoke test da pilha Docker com PostgreSQL e Redis.
 
 **Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, React, TypeScript,
 Docker, GitHub Actions e Vercel.
 
 [Aplicação](https://nexo-pessoas.vercel.app) ·
 [Código-fonte](https://github.com/LuKeTempestt/nexo-pessoas) ·
-[Versão v5.1.1](https://github.com/LuKeTempestt/nexo-pessoas/releases/tag/v5.1.1)
+[Última versão](https://github.com/LuKeTempestt/nexo-pessoas/releases/latest)
 
 ### Simulados SEDU
 
