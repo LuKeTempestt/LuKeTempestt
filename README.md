@@ -1,4 +1,4 @@
-# João Fernando De Paiva E Silva
+# João Fernando
 
 **Desenvolvedor Python | Backend e Full Stack | FastAPI, APIs REST, PostgreSQL, Redis e Docker**
 
